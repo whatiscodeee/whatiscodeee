@@ -19,7 +19,9 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCF8TYpwDxfiw3Y1oML-zbRA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
-  <a href="https://www.reddit.com/user/ChocoPiePogger"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /a>           
+  <a href="https://osu.ppy.sh/users/17872227"><img src="https://img.shields.io/badge/Osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white" />                                                                                                                                    </a>
+  <a href="https://www.vk.com/whatiscode"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whatiscodeee&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
 </p>
