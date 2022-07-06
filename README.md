@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/52yl2JN.png">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/XH10Uy7.gif" />
+  <img src="https://cdn.discordapp.com/attachments/992126211704750142/994219660163698739/unknown.png">
 </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/965086099120742440.png" />
