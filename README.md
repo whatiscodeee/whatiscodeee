@@ -18,11 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/chocopiepogger"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
-  <a href="https://osu.ppy.sh/users/17872227"><img src="https://img.shields.io/badge/Osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white" />                                                                                                                                    </a>
-  <a href="https://www.reddit.com/user/ChocoPiePogger"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />                                                                                                                                    </a>
-  <a href="https://steamcommunity.com/id/ch0c0p13/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-
+  <a href="https://www.youtube.com/channel/UCF8TYpwDxfiw3Y1oML-zbRA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
+  <a href="https://www.reddit.com/user/ChocoPiePogger"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /a>           
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
 </p>
