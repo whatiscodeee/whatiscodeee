@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCF8TYpwDxfiw3Y1oML-zbRA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
   <a href="https://osu.ppy.sh/users/17872227"><img src="https://img.shields.io/badge/Osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white" />                                                                                                                                    </a>
-  <a href="https://www.vk.com/whatiscode"><img src="https://brandslogos.com/wp-content/uploads/images/large/vk-logo.png" />
+  <a href="https://www.vk.com/whatiscode"><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/vk-logo.png" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
