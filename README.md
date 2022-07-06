@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/не вайт#6163.png" />
+  <img src="https://discord.c99.nl/widget/theme-1/не вайт#6163.png />
 </p>
 <p align="center">
 <b>autistic monkey from vietnam</b>
