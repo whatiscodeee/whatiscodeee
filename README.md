@@ -14,11 +14,8 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/965086099120742440.png" />
 </p>
-<p1 align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/931921745202528277.png" />
-</p1>
 <p align="center">
-<b>autistic monkey from vietnam</b>
+  <img src="https://discord.c99.nl/widget/theme-2/931921745202528277.png" />
 </p>
 <p align="center">
 <b>cool stuffs</b>
