@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm whatiscode</h1>
-<h3 align="center">Java & Python Developer</h3>
 
+[![Saydov's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsaydov&theme=dark&show_icons=true&hide_border=true&disable_animations=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsaydov&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-- 🔭 I’m currently working on **LiteDays**
+[![Discord Presence](https://lanyard.cnrad.dev/api/894208701806817382)](https://discord.com/users/894208701806817382)
 
-- 🌱 I’m currently learning **Python**
-
-
-
-<p align="left">
-</p>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+![Profile views](https://gpvc.arturio.dev/notsaydov)
