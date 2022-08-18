@@ -1,2 +1,2 @@
-# Java Junior Developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Junior+Developer)](https://git.io/typing-svg)
+# Telegram
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram)](https://t.me/whitenefake)
