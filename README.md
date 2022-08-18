@@ -2,6 +2,5 @@
 
 <!-- profile stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatiscodeee)](https://github.com/whatiscodeee/github-readme-stats)
-
 <!-- most used languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatiscodeee)](https://github.com/whatiscodeee/github-readme-stats)
