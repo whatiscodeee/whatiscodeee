@@ -6,3 +6,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/894208701806817382)](https://discord.com/users/894208701806817382)
 
 ![Profile views](https://gpvc.arturio.dev/notsaydov)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
