@@ -1,10 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+beginner+Сomputer+security+engineer)](https://java.com)
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whatiscodeee&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whatiscodeee&theme=solarized_dark)
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 500 430" width="550" version="1.1">
     <defs>
         <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
